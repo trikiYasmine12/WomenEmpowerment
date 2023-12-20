@@ -25,5 +25,7 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### Mac OS ###s
 .DS_Store
+
+!**/src/edu/connexion/tools/MyConnection.java
