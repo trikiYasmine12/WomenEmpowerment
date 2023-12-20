@@ -19,4 +19,44 @@ public class Sante {
         this.medecin = medecin;
         Date = date;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getTitre() {
+        return titre;
+    }
+
+    public void setTitre(String titre) {
+        this.titre = titre;
+    }
+
+    public String getMaladie() {
+        return maladie;
+    }
+
+    public void setMaladie(String maladie) {
+        this.maladie = maladie;
+    }
+
+    public String getMedecin() {
+        return medecin;
+    }
+
+    public void setMedecin(String medecin) {
+        this.medecin = medecin;
+    }
+
+    public Date getDate() {
+        return Date;
+    }
+
+    public void setDate(Date date) {
+        Date = date;
+    }
 }
